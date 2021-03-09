@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+header{
+    background: url("/img/money-2696229_1920.jpg") no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.logo img{
+    height: 70px;
+    width: 70px;
+}
+.logo a{
+    font-size: 25px;
+}
+.call{
+    margin-left: 5rem;
+}
+.home{
+    margin-right: 8rem;
+    font-size: 20px;
+}
+
+.bottom{
+    margin-top: 1rem;
+    width: 50px;
+    height: 5px;
+    background-color: black;
+}
+
+.lbottom{
+    position: relative;
+    width: 180px;
+    height: 8px;
+    margin-left: 15vw;
+    margin-top: 2rem;
+    background-color: black;
+}
+
+.centre{
+    height: 70vh;
+}
+.mid{
+    position:relative;
+    left: 30%;     
+    width: 50vw;
+}
+.mid h1{
+    font-size: 90px;
+}
+.social{
+    position:fixed;
+    right: 5px;
+}
+.fa{
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
