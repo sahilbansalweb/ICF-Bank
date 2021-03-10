@@ -176,3 +176,71 @@ background: #394D61;
 .sform{
     margin: 20px;
 }
+
+
+section{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -79px;
+}
+
+.shead{
+    font-size: 42px;
+    padding: 50px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin:0px 70px 70px 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.service{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 30px 0 30px;
+    justify-content: space-evenly;
+}
+
+.service h2{
+    color: #000000;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.service-1, .service-2, .service-3{
+    border: 2px solid #ffffff;
+    width: 450px;
+    padding: 60px;
+    border-radius: 8px;
+    margin-top: 20px;
+    /* color: #fff; */
+}
+.service-1{
+    background: url("/img/pexels-maitree-rimthong-1602726.jpg") no-repeat;
+    background-size: cover;
+}
+.service-2{
+    background: url("/img/gettyimages-868691698-612x612.jpg") no-repeat;
+    background-size: cover;
+}
+.service-3{
+    background: url("/img/gettyimages-513422160-612x612.jpg") no-repeat;
+    background-size: cover;
+}
+
+.service li{
+    font-size: 20px;
+}
+
+.service-1, .service-2, .service-3 ul li p{
+    font-size: 16px;
+}
+
+#more{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 20px;
+    padding-right: 40px;
+    font-size: 20px;
+}
