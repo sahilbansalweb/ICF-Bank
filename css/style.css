@@ -67,9 +67,9 @@ a{
     color: rgb(0, 0, 0);
 }
 
-section{
+.form{
     font-family: 'Quicksand', sans-serif;
-    background: white;
+    background: #f3f2f2;
 }
 
 /* #form{
@@ -95,7 +95,7 @@ section{
 	border: 5px solid #53687E;
     position: relative;
     margin: auto;
-    top: -90px;
+    top: -180px;
 }
 .form-style-4 input[type=submit],
 .form-style-4 input[type=button],
