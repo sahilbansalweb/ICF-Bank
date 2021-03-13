@@ -9,7 +9,7 @@ body{
 }
 
 header{
-    background: url("/img/pexels-expect-best-351264.jpg") no-repeat;
+    background: url("https://sahilbansalweb.github.io/ICF-Bank/img/pexels-expect-best-351264.jpg") no-repeat;
     background-size: cover;
     height: 100vh;
 }
@@ -223,15 +223,15 @@ section{
     /* color: #fff; */
 }
 .service-1{
-    background: url("/img/pexels-maitree-rimthong-1602726.jpg") no-repeat;
+    background: url("https://sahilbansalweb.github.io/ICF-Bank/img/pexels-maitree-rimthong-1602726.jpg") no-repeat;
     background-size: cover;
 }
 .service-2{
-    background: url("/img/gettyimages-868691698-612x612.jpg") no-repeat;
+    background: url("https://sahilbansalweb.github.io/ICF-Bank/img/gettyimages-868691698-612x612.jpg") no-repeat;
     background-size: cover;
 }
 .service-3{
-    background: url("/img/gettyimages-513422160-612x612.jpg") no-repeat;
+    background: url("https://sahilbansalweb.github.io/ICF-Bank/img/gettyimages-513422160-612x612.jpg") no-repeat;
     background-size: cover;
 }
 
