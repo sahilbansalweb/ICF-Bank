@@ -358,3 +358,47 @@ section{
     opacity: 0.5;
   }
 
+footer{
+    background: #53687E;
+}
+
+
+.foot{
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    justify-content: space-evenly;
+    /* height: 70vh; */
+    margin-left: 7rem;
+    padding-top: 5rem;
+}
+
+.dabbe{
+    margin: 50px;
+    padding-top: 30px;
+    border-top: 2px solid black;
+}
+
+.logo1{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+.logo1 a{
+    font-size: 24px;
+    font-weight: 700;
+}
+.dabbe p{
+    padding-top: 50px;
+}
+.dabbe a{
+    padding-top: 50px;
+}
+.copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20vh;
+}
