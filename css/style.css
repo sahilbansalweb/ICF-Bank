@@ -244,3 +244,55 @@ section{
     padding-right: 40px;
     font-size: 20px;
 }
+
+#Opinion{
+    background:#394D61;
+    color: #D9FFA9;
+    /* color: rgb(80,227,194); */
+    padding-top: 7rem;
+    margin-top: -3rem;
+    display: flex;
+    flex-direction: column;
+}
+#Opinion h2{
+    color: rgb(80,227,194);
+}
+#Opinion h4{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(80,227,194);
+}
+#Opinion p{
+    margin-top: 4rem;
+    font-family: 'Raleway', sans-serif;
+    /* color: rgb(80,227,194); */
+}
+
+.ohead{
+    font-size: 42px;
+    padding: 50px;
+    border-top: 2px solid #D9FFA9;
+    border-bottom: 1px solid #D9FFA9;
+    display: flex;
+    justify-content: center;
+}
+
+.clients{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 7rem;
+    border-bottom: 1px solid #D9FFA9;
+    height: 100vh;
+
+}
+
+.clients img{
+    height: 8rem;
+    width: 8rem;
+    margin: 3rem;
+}
+
+#client-1, #client-2, #client-3{
+    padding: 9rem;
+}
