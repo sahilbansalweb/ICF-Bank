@@ -215,7 +215,7 @@ section{
 }
 
 .service-1, .service-2, .service-3{
-    border: 2px solid #ffffff;
+    border: 2px solid black;
     width: 450px;
     padding: 60px;
     border-radius: 8px;
